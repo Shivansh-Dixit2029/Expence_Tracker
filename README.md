@@ -13,8 +13,7 @@ Technologies used:-
 3. Basic string manipulation
 
 Steps to Install & Run the Project:-
-1.Open your terminal or command prompt.<img width="1526" height="958" alt="Screenshot 2025-11-24 223711" src="https://github.com/user-attachments/assets/5649abed-2489-4894-ad60-cc14fa53f7f5" />
-
+1.Open your terminal or command prompt.
 2.Navigate to the directory where you saved the file.
 3.Run the application -python Exp_Tracker.py
 
